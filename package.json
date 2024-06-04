@@ -1,0 +1,11 @@
+{
+  "name": "zip2desk",
+  "version": "1.0.0",
+  "description": "> 读取 package.json 中 name version -》 将本地打包后文件重命名 -》 压缩 -》 移动到桌面",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
